@@ -2,7 +2,7 @@
 
 **Desenvolvedor Back-end**
 
-Me chamo Michael Carvalho, tenho 23 anos e sou de São Paulo. Atualmente estou cursando Engenharia De Software. Sempre buscando as melhores soluções
+Me chamo Michael Carvalho, tenho 23 anos e sou de São Paulo. Atualmente estou cursando Engenharia De Software. Sempre buscando as melhores soluções.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mmmichaelcarvalho@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelcarvalhoo/)
@@ -25,8 +25,6 @@ Me chamo Michael Carvalho, tenho 23 anos e sou de São Paulo. Atualmente estou c
     </a>
 </p>
 
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -37,6 +35,7 @@ Me chamo Michael Carvalho, tenho 23 anos e sou de São Paulo. Atualmente estou c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"
 />
+
 <img 
     align="left"
     alt="HTML"
@@ -45,14 +44,16 @@ Me chamo Michael Carvalho, tenho 23 anos e sou de São Paulo. Atualmente estou c
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left"
     alt="CSS"
     title="CSS"
     width="40px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
+
 <img 
     align="left"
     alt="TypeScript"
@@ -61,6 +62,7 @@ Me chamo Michael Carvalho, tenho 23 anos e sou de São Paulo. Atualmente estou c
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <img 
     align="left"
     alt="Git"
@@ -69,6 +71,7 @@ Me chamo Michael Carvalho, tenho 23 anos e sou de São Paulo. Atualmente estou c
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" 
 />
+
 <img 
     align="left" 
     alt="Java"
@@ -77,6 +80,7 @@ Me chamo Michael Carvalho, tenho 23 anos e sou de São Paulo. Atualmente estou c
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Spring" 
@@ -86,25 +90,20 @@ Me chamo Michael Carvalho, tenho 23 anos e sou de São Paulo. Atualmente estou c
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
 
-<br clear="both"/>
+<br/>
 
----
+<br/>
+
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=michaelcarvalhodev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelcarvalhodev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelcarvalhodev&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelcarvalhodev&theme=tokyonight" />
 </p>
+
+---
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
