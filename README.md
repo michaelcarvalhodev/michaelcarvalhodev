@@ -18,7 +18,7 @@ Me chamo Michael Carvalho, tenho 23 anos e sou de São Paulo. Atualmente estou c
 ### 📊 Estatísticas
 
 <p>
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelcarvalhodev&theme=tokyonight" width="64%" />
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelcarvalhodev&theme=tokyonight" width="80%" />
     
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelcarvalhodev&theme=tokyonight" />
