@@ -2,7 +2,7 @@
 
 **Desenvolvedor Back-end**
 
-Me chamo Michael Carvalho, tenho 23 anos e sou de São Paulo. Atualmente estou cursando Engenharia De Software. Sempre buscando as melhores soluções.
+Me chamo Michael Carvalho, sou de São Paulo. Atualmente estou cursando Engenharia De Software. Sempre buscando as melhores soluções.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mmmichaelcarvalho@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelcarvalhoo/)
